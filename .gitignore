@@ -1,0 +1,10 @@
+# Never commit a stored API key
+config.json
+.env
+.env.*
+*.key
+*.pem
+
+__pycache__/
+*.py[cod]
+.DS_Store
